@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99bcb96c-a616-4879-a674-7deb3adb0584" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Objects/BasicUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Objects/Beforeclassinvoke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Testcase/DemoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Testcase/TestLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Testcase/TestTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testReport.html" afterDir="false" />
+    <list default="true" id="99bcb96c-a616-4879-a674-7deb3adb0584" name="Changes" comment="Initial commit for POMWithExtenreport">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Objects/BasicUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Objects/Beforeclassinvoke.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Testcase/DemoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Testcase/TestLogin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Testcase/TestTitle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,9 +159,19 @@
       <option name="presentableId" value="Default" />
       <updated>1676339805781</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit for POMWithExtenreport">
+      <created>1677525942557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677525942557</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initial commit for POMWithExtenreport" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for POMWithExtenreport" />
   </component>
 </project>

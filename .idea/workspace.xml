@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99bcb96c-a616-4879-a674-7deb3adb0584" name="Changes" comment="Initial commit for POMWithExtenreport">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/example/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Objects/BasicUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Objects/Beforeclassinvoke.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Testcase/DemoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Testcase/TestLogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Testcase/TestTitle.class" afterDir="false" />
+    <list default="true" id="99bcb96c-a616-4879-a674-7deb3adb0584" name="Changes" comment="new commit for POMWithExtenreport">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,12 +159,35 @@
       <option name="project" value="LOCAL" />
       <updated>1677525942557</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit for POMWithExtenreport">
+      <created>1677527116831</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677527116831</updated>
+    </task>
+    <task id="LOCAL-00003" summary="change commit for POMWithExtenreport">
+      <created>1677528289170</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677528289170</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new commit for POMWithExtenreport">
+      <created>1677528420183</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677528420183</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit for POMWithExtenreport" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit for POMWithExtenreport" />
+    <MESSAGE value="change commit for POMWithExtenreport" />
+    <MESSAGE value="new commit for POMWithExtenreport" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit for POMWithExtenreport" />
   </component>
 </project>
